@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Interface,Static\bin\Debug\net6.0\Interface,Static.exe
+C:\Users\LENOVO\Desktop\Interface,Static\bin\Debug\net6.0\Interface,Static.deps.json
+C:\Users\LENOVO\Desktop\Interface,Static\bin\Debug\net6.0\Interface,Static.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Interface,Static\bin\Debug\net6.0\Interface,Static.dll
+C:\Users\LENOVO\Desktop\Interface,Static\bin\Debug\net6.0\Interface,Static.pdb
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.dll
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\refint\Interface,Static.dll
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.pdb
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\Interface,Static.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Interface,Static\obj\Debug\net6.0\ref\Interface,Static.dll
